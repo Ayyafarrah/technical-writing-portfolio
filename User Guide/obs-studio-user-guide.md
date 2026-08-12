@@ -62,7 +62,7 @@ This section explains how to install OBS Studio on Windows.
  
 > Tip: Download OBS Studio from the official OBS Studio website to ensure that you are using the legitimate software.
 > 
-{.is-info}
+
 
 **Step 2: Run the Installer**
 1. Locate the downloaded installer.
@@ -82,7 +82,8 @@ After the installation is complete:
 1. Launch OBS Studio.
 1. Wait for the application to initialize.
 1. The OBS Studio main window should appear.
-![capture1.png](/capture1.png){.align-center}
+
+![First page.png](User Guide/First page.PNG)
 📸 OBS Studio main interface after installation.
 
 ## 4. Getting Started
@@ -98,7 +99,9 @@ When OBS Studio is opened, the main interface is divided into several sections.
 |Audio |Mixer	Displays and controls audio sources.
 |Scene |Transitions	Controls transitions between scenes.
 |Controls	|Provides access to recording, streaming, settings, and other functions.|
+
 ![capture1.png](/capture1.png){.align-center}
+
 📸 Label the main OBS Studio interface.
 ### 4.2 Create a Scene
 A Scene is a collection of sources that determines what appears in the recording or stream.
@@ -112,7 +115,7 @@ To create a scene:
 1. Click OK.
 
 The new scene will appear in the Scenes panel.
-![capture2.png](/capture2.png){.align-center}
+![Scene.png](/Scene.png)
 > Tip: Use descriptive scene names to make your OBS Studio setup easier to manage.
 > 
 {.is-info}
