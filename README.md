@@ -67,3 +67,4 @@ I am open to opportunities related to Technical Writing, Documentation, Project 
 
 **Email**: farah.nnh@gmail.com
 
+*This repository is continuously being updated as I develop and add new technical writing samples.*
