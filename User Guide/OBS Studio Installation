@@ -1,0 +1,14 @@
+# **OBS Studio Documentation**
+
+##  1. Introduction
+OBS Studio (Open Broadcaster Software Studio) is a free and open-source application for video recording and live streaming.
+
+OBS Studio allows users to capture and combine multiple sources, such as:
+1. Display or window captures
+1. Webcams
+1. Microphones
+1. Application audio
+1. Images
+1. Videos
+1. Browser content
+
